@@ -43,4 +43,4 @@ The dashboard helps understand sales performance and profitability, identify bus
 
 ## 📊 Dashboard Preview
 
-![Adidas Sales Dashboard](Dashboard/Adidas_dashboard.png)
+![Adidas Sales Dashboard](Adidas_Sales/Dashboard/Adidas_dashboard.png)
